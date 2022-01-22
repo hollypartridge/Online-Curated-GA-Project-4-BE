@@ -1,0 +1,30 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "name": "Handbag T shirt",
+    "designer": "Ashley Williams",
+    "description": "Hand airbrushed graphic\r\n\r\n100% Cotton",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-61.jpg?v=1639050360",
+    "color": "White",
+    "price": 210,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "name": "Cutie Patchwork Hood",
+    "designer": "Ashley Williams",
+    "description": "Hand knitted in the UK\r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4841.jpg?v=1637066665",
+    "color": "Mixed",
+    "price": 290,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+}
+]
