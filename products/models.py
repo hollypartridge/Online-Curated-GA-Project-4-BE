@@ -31,7 +31,6 @@ class Product(models.Model):
             ('T-shirts', 'T-shirts'),
             ('Trackpants', 'Trackpants'),
             ('Trousers', 'Trousers'),
-            ('Underwear', 'Underwear'),
         )
         ),
         ('Shoes', (
@@ -54,14 +53,22 @@ class Product(models.Model):
     COLOR_CHOICES = [
         ('Black', 'Black'),
         ('Blue', 'Blue'),
+        ('Brown', 'Brown'),
+        ('Camel', 'Camel'),
+        ('Cream', 'Cream'),
         ('Green', 'Green'),
         ('Grey', 'Grey'),
         ('Lilac', 'Lilac'),
         ('Mixed', 'Mixed'),
+        ('Natural', 'Natural'),
+        ('Olive', 'Olive'),
+        ('Peach', 'Peach'),
         ('Pink', 'Pink'),
         ('Purple', 'Purple'),
         ('Red', 'Red'),
+        ('Sand', 'Sand'),
         ('White', 'White'),
+        ('Yellow', 'Yellow'),
     ]
     name = models.CharField(max_length=100)
     designer = models.CharField(max_length=60)
