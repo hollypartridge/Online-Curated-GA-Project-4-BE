@@ -29,12 +29,13 @@ class Product(models.Model):
             ('Skirts', 'Skirts'),
             ('Sweatshirt', 'Sweatshirt'),
             ('T-shirts', 'T-shirts'),
+            ('Trackpants', 'Trackpants'),
             ('Trousers', 'Trousers'),
             ('Underwear', 'Underwear'),
         )
         ),
         ('Shoes', (
-            ('Trainers', 'Trainers'),
+            ('Boots', 'Boots'),
             ('Flats', 'Flats'),
             ('Heels', 'Heels'),
             ('Trainers', 'Trainers'),
@@ -50,11 +51,23 @@ class Product(models.Model):
         )
         ),
     ]
+    COLOR_CHOICES = [
+        ('Black', 'Black'),
+        ('Blue', 'Blue'),
+        ('Green', 'Green'),
+        ('Grey', 'Grey'),
+        ('Lilac', 'Lilac'),
+        ('Mixed', 'Mixed'),
+        ('Pink', 'Pink'),
+        ('Purple', 'Purple'),
+        ('Red', 'Red'),
+        ('White', 'White'),
+    ]
     name = models.CharField(max_length=100)
     designer = models.CharField(max_length=60)
     description = models.TextField()
     image = models.CharField(max_length=300)
-    color = models.CharField(max_length=20)
+    color = models.CharField(max_length=20, choices=COLOR_CHOICES)
     price = models.PositiveIntegerField()
     category = models.CharField(max_length=50, choices=CATEGORY_CHOICES)
     type = models.CharField(max_length=50, choices=TYPE_CHOICES)

@@ -26,5 +26,1013 @@
     "category": "Accessories",
     "type": "Hats"
   }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "name": "Pentagram Arm Warmers",
+    "designer": "Ashley Williams",
+    "description": "100% Mohair \r\n\r\nHandmade in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April06_2021-0065.jpg?v=1621949578",
+    "color": "Mixed",
+    "price": 165,
+    "category": "Accessories",
+    "type": "Gloves"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "name": "Pleated Micro Mini Skirt Checkerboard",
+    "designer": "Ashley Williams",
+    "description": "Pleated micro mini skirt in checkerboard print\r\n\r\n100% Cotton Silk Satin",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4815.jpg?v=1636996094",
+    "color": "Mixed",
+    "price": 255,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "name": "Cutie  Patchwork Vest",
+    "designer": "Ashley Williams",
+    "description": "Hand Knitted in the UK \r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4809.jpg?v=1637066353",
+    "color": "Mixed",
+    "price": 445,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "name": "Cutie Patchwork Arm Warmers",
+    "designer": "Ashley Williams",
+    "description": "100% Mohair \r\n\r\nHandmade in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4838.jpg?v=1637069131",
+    "color": "Mixed",
+    "price": 270,
+    "category": "Accessories",
+    "type": "Gloves"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "name": "Gabrielle Skirt White Bows",
+    "designer": "Ashley Williams",
+    "description": "Boucle wool mini skirt with white cotton satin bows\r\n\r\n100% Boucle Wool",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4821.jpg?v=1637061989",
+    "color": "Black",
+    "price": 390,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "name": "Green and Lilac Tattoo Tights",
+    "designer": "Ashley Williams",
+    "description": "Lilac and green tattoo print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April07_2021-0001.jpg?v=1621942939",
+    "color": "Mixed",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "name": "Pink Heart Handbag",
+    "designer": "Ashley Williams",
+    "description": "Heart Handbag \r\n\r\n100% Cotton Satin\r\n\r\nZip Fastening",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-November02_2021-0001.jpg?v=1637073429",
+    "color": "Pink",
+    "price": 325,
+    "category": "Accessories",
+    "type": "Bags"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "name": "Tattoo Straight Leg Jean",
+    "designer": "Ashley Williams",
+    "description": "Tattoo print straight leg jeans\r\n\r\n100% Cotton Denim",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4904_ebcc51c5-6a80-4be7-8591-da93a49cbc65.jpg?v=1637165544",
+    "color": "Blue",
+    "price": 220,
+    "category": "Clothing",
+    "type": "Jeans"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "name": "Puppy Tights",
+    "designer": "Ashley Williams",
+    "description": "Puppy print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-114.jpg?v=1639052083",
+    "color": "Mixed",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "name": "Checkerboard Heart Handbag",
+    "designer": "Ashley Williams",
+    "description": "Heart Handbag \r\n\r\n100% Silk Satin\r\n\r\nZip Fastening",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-November02_2021-0003.jpg?v=1637073257",
+    "color": "Mixed",
+    "price": 350,
+    "category": "Accessories",
+    "type": "Bags"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 13,
+  "fields": {
+    "name": "Cutie Patchwork Knit Cardigan",
+    "designer": "Ashley Williams",
+    "description": "Hand Knitted in the UK \r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4862.jpg?v=1637064626",
+    "color": "Mixed",
+    "price": 690,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 14,
+  "fields": {
+    "name": "Belly Bar White Knit Cardigan",
+    "designer": "Ashley Williams",
+    "description": "Embellished with belly bar piercings\r\n\r\nHand Knitted in the UK \r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-44.jpg?v=1639051963",
+    "color": "White",
+    "price": 645,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 15,
+  "fields": {
+    "name": "Dolly Dress Checkerboard",
+    "designer": "Ashley Williams",
+    "description": "Doll checkerboard dress with peter-pan collar\r\n\r\n100% Cotton Satin",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4878.jpg?v=1637060095",
+    "color": "Mixed",
+    "price": 460,
+    "category": "Clothing",
+    "type": "Dresses"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 16,
+  "fields": {
+    "name": "Dreams Baby Tee",
+    "designer": "Ashley Williams",
+    "description": "100% Cotton Jersey\r\n\r\nSmall Fitted style",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4832.jpg?v=1637070078",
+    "color": "White",
+    "price": 95,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 17,
+  "fields": {
+    "name": "Lilac and Black Tattoo Tights",
+    "designer": "Ashley Williams",
+    "description": "Lilac and Black Tattoo print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/ashleywilliams1967.jpg?v=1599666006",
+    "color": "Mixed",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 18,
+  "fields": {
+    "name": "Jesus Hates Me V-Neck Cardigan",
+    "designer": "Ashley Williams",
+    "description": "Hand Knitted in the UK \r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4865.jpg?v=1637064980",
+    "color": "White",
+    "price": 390,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 19,
+  "fields": {
+    "name": "Lilac and Green Tights",
+    "designer": "Ashley Williams",
+    "description": "Sex print tights\r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4912.jpg?v=1637071488",
+    "color": "Mixed",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 20,
+  "fields": {
+    "name": "Cat Tights",
+    "designer": "Ashley Williams",
+    "description": "Cats print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April07_2021-0005.jpg?v=1621943023",
+    "color": "White",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 21,
+  "fields": {
+    "name": "Crystal Cowweb Knit Jumper",
+    "designer": "Ashley Williams",
+    "description": "Black Knitted Jumper with Embroidery Crystal Cobweb detail \r\n\r\n30% WMK 32% PA 38% PC\r\n\r\nKnitted by hand in the UK \r\n\r\nLoose fit",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-October23_2020-0020.jpg?v=1604059276",
+    "color": "Black",
+    "price": 490,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 22,
+  "fields": {
+    "name": "Pink and White Tights",
+    "designer": "Ashley Williams",
+    "description": "Pink and white print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4914.jpg?v=1637071705",
+    "color": "Mixed",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 23,
+  "fields": {
+    "name": "Kittens Shift Dress",
+    "designer": "Ashley Williams",
+    "description": "Kittens Printed Shift Dress \r\n\r\n40% Silk 60% Cotton",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-78.jpg?v=1639048863",
+    "color": "Black",
+    "price": 395,
+    "category": "Clothing",
+    "type": "Dresses"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 24,
+  "fields": {
+    "name": "You Are Here T-Shirt",
+    "designer": "Ashley Williams",
+    "description": "Screen printed tee\r\n\r\n100% Cotton",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-66.jpg?v=1639053400",
+    "color": "White",
+    "price": 95,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 25,
+  "fields": {
+    "name": "Dolphin Hat",
+    "designer": "Ashley Williams",
+    "description": "Hand knitted in the UK\r\n\r\n100% Mohair",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-5.jpg?v=1639058959",
+    "color": "Mixed",
+    "price": 150,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 26,
+  "fields": {
+    "name": "100% Hoodie",
+    "designer": "Ashley Williams",
+    "description": "Hand printed in the UK \r\n\r\n100% Cotton",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-115.jpg?v=1639054880",
+    "color": "Black",
+    "price": 165,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 27,
+  "fields": {
+    "name": "Skull Kate Bag",
+    "designer": "Ashley Williams",
+    "description": "Skull Print Kate Bag \r\n\r\nOuter 60% Silk 40% Cotton\r\n\r\nLining 100% Suede",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-99.jpg?v=1639059567",
+    "color": "Black",
+    "price": 150,
+    "category": "Clothing",
+    "type": "Bags"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 28,
+  "fields": {
+    "name": "Sex Tights",
+    "designer": "Ashley Williams",
+    "description": "Sex print tights \r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April07_2021-0002.jpg?v=1621943227",
+    "color": "White",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 29,
+  "fields": {
+    "name": "Purell T-Shirt",
+    "designer": "Ashley Williams",
+    "description": "Hand airbrushed graphic\r\n\r\n100% Cotton",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April06_2021-0024.jpg?v=1622638851",
+    "color": "White",
+    "price": 420,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 30,
+  "fields": {
+    "name": "Black Angel Energy Joggers",
+    "designer": "Ashley Williams",
+    "description": "100% Cotton \r\n\r\nBlack with white screen print",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-October23_2020-0044.jpg?v=1604062545",
+    "color": "Black",
+    "price": 160,
+    "category": "Clothing",
+    "type": "Trackpants"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 31,
+  "fields": {
+    "name": "Last Chance Hoodie",
+    "designer": "Ashley Williams",
+    "description": "Last Chance To Escape Cropped Hoodie\r\n\r\nHand printed in the UK \r\n\r\n100% Cotton\r\n\r\nEach piece unique, hand dyed in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-124.jpg?v=1639055313",
+    "color": "Mixed",
+    "price": 180,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 32,
+  "fields": {
+    "name": "Escape Joggers",
+    "designer": "Ashley Williams",
+    "description": "Escape Planet Earth Joggers\r\n\r\nHand printed in the UK \r\n\r\n100% Cotton\r\n\r\nEach piece unique, hand dyed in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-152.jpg?v=1639055479",
+    "color": "Mixed",
+    "price": 135,
+    "category": "Clothing",
+    "type": "Trackpants"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 33,
+  "fields": {
+    "name": "Last Chance Hoodie",
+    "designer": "Ashley Williams",
+    "description": "Last Chance To Escape Pocket Hoodie\r\n\r\nHand printed in the UK \r\n\r\n100% Cotton\r\n\r\nEach piece unique, hand dyed in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-128.jpg?v=1639055057",
+    "color": "Pink",
+    "price": 180,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 34,
+  "fields": {
+    "name": "Escape Joggers",
+    "designer": "Ashley Williams",
+    "description": "Escape Planet Earth Joggers\r\n\r\nHand printed in the UK \r\n\r\n100% Cotton\r\n\r\nEach piece unique, hand dyed in the UK",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliamsDec7th2021-144.jpg?v=1639055568",
+    "color": "Pink",
+    "price": 135,
+    "category": "Clothing",
+    "type": "Trackpants"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 35,
+  "fields": {
+    "name": "Dollar Tightes",
+    "designer": "Ashley Williams",
+    "description": "Dollar print tights\r\n\r\n95% Nylon 5% Elastane",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/ashleywilliams1287.jpg?v=1595947996",
+    "color": "Pink",
+    "price": 80,
+    "category": "Accessories",
+    "type": "Tights"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 36,
+  "fields": {
+    "name": "Cool Bum Jeans",
+    "designer": "Ashley Williams",
+    "description": "Hand Airbrushed denim jeans \r\n\r\nSunglasses face graphic on back \r\n\r\n100% Cotton Denim",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/ashleywilliams1227.jpg?v=1595860908",
+    "color": "Blue",
+    "price": 210,
+    "category": "Clothing",
+    "type": "Jeans"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 37,
+  "fields": {
+    "name": "Skulls Tropic Shorts",
+    "designer": "Ashley Williams",
+    "description": "100% Cotton \r\n\r\nElasticated Waist\r\n\r\nRope Draw string",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/ashley-williams-March06_2020-19.jpg?v=1589898134",
+    "color": "Black",
+    "price": 160,
+    "category": "Clothing",
+    "type": "Shorts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 38,
+  "fields": {
+    "name": "Kittens Mini Skirt",
+    "designer": "Ashley Williams",
+    "description": "Kittens mini skirt\r\n\r\n100% Cotton Silk Satin",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4811.jpg?v=1636994734",
+    "color": "Black",
+    "price": 230,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 39,
+  "fields": {
+    "name": "Gabrielle Skirt Pink Bows",
+    "designer": "Ashley Williams",
+    "description": "Boucle wool mini skirt with pink cotton satin bows\r\n\r\n100% Boucle Wool",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams1st4824.jpg?v=1637062719",
+    "color": "Black",
+    "price": 390,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 40,
+  "fields": {
+    "name": "Tattoo Heart Handbag",
+    "designer": "Ashley Williams",
+    "description": "Heart Handbag \r\n\r\n100% Silk\r\n\r\nGreen and Lilac Tattoo Print\r\n\r\nZip Fastening",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-April09_2021-0126.jpg?v=1621943557",
+    "color": "Mixed",
+    "price": 325,
+    "category": "Accessories",
+    "type": "Bags"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 41,
+  "fields": {
+    "name": "Shut Up Cardigan",
+    "designer": "Ashley Williams",
+    "description": "Shut Up Knitted Cardigan\r\n\r\nHand Knitted in the UK \r\n\r\n30% WMK, 32% PA, 38% PC",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-December08_2020-0021.jpg?v=1607604907",
+    "color": "Pink",
+    "price": 440,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 42,
+  "fields": {
+    "name": "Cake Skirt",
+    "designer": "Ashley Williams",
+    "description": "Lilac Organza layered skirt \r\n\r\nBlue Marabou Feathers \r\n\r\n90% Organza 10% Marabou Feathers",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/aw1.jpg?v=1599665763",
+    "color": "Lilac",
+    "price": 395,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 43,
+  "fields": {
+    "name": "Dog Years Sweatshirt",
+    "designer": "Ashley Williams",
+    "description": "50% Cotton 50% Polyester\r\n\r\nGrey Marl\r\n\r\nNavy Embroidery",
+    "image": "https://cdn.shopify.com/s/files/1/0958/7732/products/AshleyWilliams-November26_2020-0001.jpg?v=1607109913",
+    "color": "Grey",
+    "price": 175,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 46,
+  "fields": {
+    "name": "No Problemo Socks",
+    "designer": "Aries",
+    "description": "80% Cotton 18% Nylon 2% Elastane\r\n\r\nPadded Soles\r\n\r\nEngineered Branding\r\n\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/2/12-08-2021_JB_FSAR00043-WH_m1_1.jpg",
+    "color": "White",
+    "price": 25,
+    "category": "Accessories",
+    "type": "Socks"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 47,
+  "fields": {
+    "name": "No Problemo Socks",
+    "designer": "Aries",
+    "description": "80% Cotton 18% Nylon 2% Elastane\r\n\r\nPadded Soles\r\n\r\nEngineered Branding\r\n\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/2/12-08-2021_JB_FSAR00043-BK_m1_1.jpg",
+    "color": "Black",
+    "price": 25,
+    "category": "Accessories",
+    "type": "Socks"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 48,
+  "fields": {
+    "name": "No Problemo Socks",
+    "designer": "Aries",
+    "description": "80% Cotton 18% Polyamide 2% Elastane\r\nRibbed Ankle\r\nEngineered Branding\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/4/14-01-2022_BLR_SSAR00045-GRN_m1_1.jpg",
+    "color": "Green",
+    "price": 25,
+    "category": "Accessories",
+    "type": "Socks"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 49,
+  "fields": {
+    "name": "No Problemo Socks",
+    "designer": "Aries",
+    "description": "80% Cotton 18% Polyamide 2% Elastane\r\n\r\nRibbed Ankle\r\n\r\nEngineered Branding\r\n\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/7/17-02-2022_JB_SSAR00045-PP_m1_1.jpg",
+    "color": "Purple",
+    "price": 25,
+    "category": "Accessories",
+    "type": "Socks"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 50,
+  "fields": {
+    "name": "No Problemo Crew Sweat",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nDrop Shoulders\r\n\r\nRibbed Trims\r\n\r\nPrinted Branding\r\n\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/7/17-01-2022_GH_SSAR20002-RD_m1_1.jpg",
+    "color": "Red",
+    "price": 215,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 51,
+  "fields": {
+    "name": "Satanic Panic Tee",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nRibbed Crewneck\r\n\r\nPrinted Branding\r\n\r\nMade in Portugal",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/1/11-08-2021_ML_FSAR60004-BK_m1_1.jpg",
+    "color": "Black",
+    "price": 75,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 52,
+  "fields": {
+    "name": "No Problemo Crew Sweat",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nFleeceback Jersey\r\n\r\nCrew Neck\r\n\r\nRibbed Trims\r\n\r\nPrinted Branding\r\n\r\nMade in Italy",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/5/15-10-2021_JA_FSAR20002-BL_m1_1.jpg",
+    "color": "Blue",
+    "price": 209,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 53,
+  "fields": {
+    "name": "Vans Vault x Aries Crew Sweat",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nGarment Dyed\r\n\r\nPrinted Branding\r\n\r\nRibbed Trims\r\n\r\nMade in the USA",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/0/10-09-2021_SI_VN0A5GYFZ0H1_1_1.jpg",
+    "color": "Pink",
+    "price": 175,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 54,
+  "fields": {
+    "name": "Vans Vault x Aries Crew Sweat",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nGarment Dyed\r\n\r\nPrinted Branding\r\n\r\nRibbed Trims\r\n\r\nMade in the USA",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/0/10-09-2021_AJ_VN0A5GYFYZU1_1_1.jpg",
+    "color": "Red",
+    "price": 115,
+    "category": "Clothing",
+    "type": "Sweatshirt"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 55,
+  "fields": {
+    "name": "Vans Vault x Aries Fleece Short",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nGarment Dyed\r\n\r\nElasticated Drawstring Waist\r\n\r\n2 Side Pockets\r\n\r\nPrinted Branding",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/0/10-09-21_TC_VN0A5GYGZ0H1_1_1.jpg",
+    "color": "Pink",
+    "price": 119,
+    "category": "Clothing",
+    "type": "Shorts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 56,
+  "fields": {
+    "name": "Vans Vault x Aries Fleece Short",
+    "designer": "Aries",
+    "description": "100% Cotton\r\n\r\nGarment Dyed\r\n\r\nElasticated Drawstring Waist\r\n\r\n2 Side Pockets\r\n\r\nPrinted Branding",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/0/10-09-21_TC_VN0A5GYGYZU1_1_1.jpg",
+    "color": "Red",
+    "price": 119,
+    "category": "Clothing",
+    "type": "Shorts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 57,
+  "fields": {
+    "name": "Frogger Trucker",
+    "designer": "Beepy Bella",
+    "description": "This iconic forest-green mesh trucker features our fantastic froggy friends. Worn by Dua Lipa, the Froggy Cap is super fun and full of surprises. Check out the back of the mesh, where we embroidered the word \"friendship\" in order to spread positivity.",
+    "image": "https://cdn.shopify.com/s/files/1/0571/2936/9756/products/img_10_900x.jpg?v=1633563629",
+    "color": "Green",
+    "price": 60,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 58,
+  "fields": {
+    "name": "I <3 Fantasy",
+    "designer": "Beepy Bella",
+    "description": "True fans of fantasy will sport this blush-hued trucker. Spot the different typography iterations of the word \"fantasy\" embroidered around the hat. Every angle has a surprise or secret message.",
+    "image": "https://cdn.shopify.com/s/files/1/0571/2936/9756/products/img19_900x.jpg?v=1641045402",
+    "color": "Pink",
+    "price": 60,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 59,
+  "fields": {
+    "name": "Prairie Trucker",
+    "designer": "Beepy Bella",
+    "description": "This charmingly rustic and glamorously sassy distressed denim cap features a Swarovski crystal rhinestone logo that shines like rainbows in the sunlight.",
+    "image": "https://cdn.shopify.com/s/files/1/0571/2936/9756/products/denimtrucker_front_900x.jpg?v=1635127837",
+    "color": "Blue",
+    "price": 60,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 60,
+  "fields": {
+    "name": "Green and White Balaclava",
+    "designer": "Pickles Knitwear",
+    "description": "Made from 100% super soft Scottish wool",
+    "image": "https://static.wixstatic.com/media/5e7d0a_437feef618e94f58be63c4e2d95946e5~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/5e7d0a_437feef618e94f58be63c4e2d95946e5~mv2.webp",
+    "color": "Green",
+    "price": 45,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 61,
+  "fields": {
+    "name": "Red and Black Balaclava",
+    "designer": "Pickles Knitwear",
+    "description": "Made from 100% super soft Scottish wool",
+    "image": "https://static.wixstatic.com/media/5e7d0a_6c3e11fa7da84b18b4d57b69ded9aea9~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/5e7d0a_6c3e11fa7da84b18b4d57b69ded9aea9~mv2.webp",
+    "color": "Mixed",
+    "price": 45,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 62,
+  "fields": {
+    "name": "Pink and Red Balaclava",
+    "designer": "Pickles Knitwear",
+    "description": "Made from 100% super soft Scottish wool",
+    "image": "https://static.wixstatic.com/media/5e7d0a_2ea7e04f482948ab8dd2ec2e05c1bd0b~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/5e7d0a_2ea7e04f482948ab8dd2ec2e05c1bd0b~mv2.webp",
+    "color": "Pink",
+    "price": 45,
+    "category": "Accessories",
+    "type": "Hats"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 63,
+  "fields": {
+    "name": "Angel Jumper",
+    "designer": "Pickles Knitwear",
+    "description": "Made from 100% super soft Scottish wool",
+    "image": "https://static.wixstatic.com/media/5e7d0a_677cac111ae2452b967b944a33ecbeca~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/5e7d0a_677cac111ae2452b967b944a33ecbeca~mv2.webp",
+    "color": "Pink",
+    "price": 140,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 64,
+  "fields": {
+    "name": "Rex Low Rise Flared Pant",
+    "designer": "Miaou",
+    "description": "91% Polyester, 9% Spandex\r\n\r\nInvisible Side Zip\r\n\r\nLow Rise\r\n\r\nStraight Leg",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/1/9/19-11-2021_EC_1021-CL-BLK_1_1.jpg",
+    "color": "Black",
+    "price": 295,
+    "category": "Clothing",
+    "type": "Trousers"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 65,
+  "fields": {
+    "name": "Lowrider Pant",
+    "designer": "Miaou",
+    "description": "98% BCI Cotton, 2% Spandex\r\n\r\nLow Rise\r\n\r\nZip Fly\r\n\r\n4 Pockets\r\n\r\nStraight Leg",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/0/7/07-06-2021_MB_1015-CL-WH_1_1.jpg",
+    "color": "White",
+    "price": 165,
+    "category": "Clothing",
+    "type": "Trousers"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 66,
+  "fields": {
+    "name": "Lowrider Pant",
+    "designer": "Miaou",
+    "description": "98% BCI Cotton, 2% Spandex\r\n\r\nLow Rise\r\n\r\nZip Fly\r\n\r\n4 Pockets\r\n\r\nStraight Leg",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/0/7/07-06-2021_MB_1015-CL-MON_1_1.jpg",
+    "color": "Mixed",
+    "price": 239,
+    "category": "Clothing",
+    "type": "Trousers"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 67,
+  "fields": {
+    "name": "Mini Tee",
+    "designer": "Miaou",
+    "description": "94% Recycled Polyester 6% Spandex\r\n\r\nShort Sleeves\r\n\r\nSheer Mesh\r\n\r\nMade in China",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/0/7/07-06-2021_llx_7026-cl-fig_1.jpg",
+    "color": "Mixed",
+    "price": 89,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 68,
+  "fields": {
+    "name": "Long Sleeve Mesh Tee",
+    "designer": "Miaou",
+    "description": "94% Recycled Polyester, 6% Spandex\r\n\r\nMesh Fabric\r\n\r\nLong Sleeves\r\n\r\nCrew neckline",
+    "image": "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/0/9/09-09-2021_SI_7029-CL-WNT_1_1.jpg",
+    "color": "Mixed",
+    "price": 95,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 69,
+  "fields": {
+    "name": "Zephyr Cut-Out T-Shirt",
+    "designer": "Miaou",
+    "description": "Cut-out detailing\r\n\r\nCrew neck\r\n\r\nShort sleeves\r\n\r\nStraight hem",
+    "image": "https://cdn-images.farfetch-contents.com/17/35/68/48/17356848_36868627_600.jpg",
+    "color": "Black",
+    "price": 110,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 70,
+  "fields": {
+    "name": "Mini Money T-Shirt",
+    "designer": "Miaou",
+    "description": "Recycled polyester-blend\r\n\r\nAll-over graphic print\r\n\r\nRound neck\r\n\r\nShort sleeves\r\n\r\nStraight hem",
+    "image": "https://cdn-images.farfetch-contents.com/17/69/59/91/17695991_37479071_600.jpg",
+    "color": "White",
+    "price": 97,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 71,
+  "fields": {
+    "name": "Raven Cargo Trousers",
+    "designer": "Miaou",
+    "description": "Belt loops\r\n\r\nLow-rise\r\n\r\nConcealed front fastening\r\n\r\nStraight leg",
+    "image": "https://cdn-images.farfetch-contents.com/17/35/75/38/17357538_37010547_600.jpg",
+    "color": "Black",
+    "price": 255,
+    "category": "Clothing",
+    "type": "Trousers"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 72,
+  "fields": {
+    "name": "Micro Miniskirt",
+    "designer": "Miaou",
+    "description": "Wool-blend\r\n\r\nFront slit\r\n\r\nLow-rise\r\n\r\nConcealed side zip fastening",
+    "image": "https://cdn-images.farfetch-contents.com/17/35/72/37/17357237_36864972_600.jpg",
+    "color": "Black",
+    "price": 135,
+    "category": "Clothing",
+    "type": "Skirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 73,
+  "fields": {
+    "name": "Agatha Space-Dyed Knitted Shirt",
+    "designer": "Gimaguas",
+    "description": "Space-dyed, collar, raglan sleeves, ribbed cuffs\r\n\r\nButton fastenings through front \r\n\r\n50% recycled cotton, 50% cotton",
+    "image": "https://m.hng.io/catalog/product/8/5/853761_pink_and_other_1.jpg?io=PDP",
+    "color": "Mixed",
+    "price": 135,
+    "category": "Clothing",
+    "type": "Knitwear"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 74,
+  "fields": {
+    "name": "Art Project Tee",
+    "designer": "Holiday The Label",
+    "description": "100% cotton \r\n\r\nMade in Mexico \r\n\r\nHand screen printed in Australia",
+    "image": "https://cdn.shopify.com/s/files/1/1996/3653/products/Holiday-the-label_Art-tee_1000x.jpg?v=1623127762",
+    "color": "White",
+    "price": 40,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 75,
+  "fields": {
+    "name": "On Holiday Tee",
+    "designer": "Holiday The Label",
+    "description": "Hand washed and tie-dyed to appear vintage. Every item is unique with dye and markings any inconsistencies are considered features of the garments uniqueness.",
+    "image": "https://cdn.shopify.com/s/files/1/1996/3653/products/Holiday-the-label_Holiday-logo-tee_Purple-tie-dye_1200x.jpg?v=1632444794",
+    "color": "Purple",
+    "price": 40,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 76,
+  "fields": {
+    "name": "On Holiday Lover Tee",
+    "designer": "Holiday The Label",
+    "description": "100% cotton tee\r\n\r\nFront screen print\r\n\r\nPrinted in Australia",
+    "image": "https://cdn.shopify.com/s/files/1/1996/3653/products/Holiday-the-Label_Black-tee_1000x.jpg?v=1623128312",
+    "color": "Black",
+    "price": 40,
+    "category": "Clothing",
+    "type": "T-shirts"
+  }
 }
 ]
