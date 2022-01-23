@@ -72,9 +72,43 @@ class Wishlist(models.Model):
     )
     owner = models.ForeignKey(
         'jwt_auth.User',
-        related_name='wishlisted_product',
+        related_name='wishlisted_products',
         on_delete=models.CASCADE
     )
 
     def __str__(self):
         return f'Wishlisted {self.id} - Product {self.product}'
+
+class Wardrobe(models.Model):
+    '''Wardrobe Model'''
+    created_at = models.DateTimeField(auto_now_add=True)
+    product = models.ForeignKey(
+        Product,
+        related_name='in_wardrobe_of',
+        on_delete=models.CASCADE
+    )
+    owner = models.ForeignKey(
+        'jwt_auth.User',
+        related_name='products_in_wardrobe',
+        on_delete=models.CASCADE
+    )
+
+    def __str__(self):
+        return f'Product {self.product} in Wardrobe {self.id}'
+
+class ShoppingBag(models.Model):
+    '''Shopping Bag Model'''
+    created_at = models.DateTimeField(auto_now_add=True)
+    product = models.ForeignKey(
+        Product,
+        related_name='in_shopping_bag_of',
+        on_delete=models.CASCADE
+    )
+    owner = models.ForeignKey(
+        'jwt_auth.User',
+        related_name='products_in_shopping_bag',
+        on_delete=models.CASCADE
+    )
+
+    def __str__(self):
+        return f'Product {self.product} in Shopping Bag {self.id}'

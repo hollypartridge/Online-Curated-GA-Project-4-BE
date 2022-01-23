@@ -5,7 +5,7 @@ from django.contrib.auth.hashers import make_password
 from django.core.exceptions import ValidationError
 from django.conf import settings
 
-from products.models import Product, Wishlist
+from products.models import Product, Wishlist, Wardrobe, ShoppingBag
 
 User = get_user_model()
 
@@ -48,9 +48,25 @@ class NestedWishlistSerializer(serializers.ModelSerializer):
         model = Wishlist
         fields = '__all__'
 
+class NestedWardrobeSerializer(serializers.ModelSerializer):
+    product = NestedProductSerializer()
+
+    class Meta:
+        model = Wardrobe
+        fields = '__all__'
+
+class NestedShoppingBagSerializer(serializers.ModelSerializer):
+    product = NestedProductSerializer()
+
+    class Meta:
+        model = ShoppingBag
+        fields = '__all__'
+
 class UserProfileSerializer(serializers.ModelSerializer):
-    wishlisted_product = NestedWishlistSerializer(many=True)
+    wishlisted_products = NestedWishlistSerializer(many=True)
+    products_in_wardrobe = NestedWardrobeSerializer(many=True)
+    products_in_shopping_bag = NestedShoppingBagSerializer(many=True)
 
     class Meta:
         model = User
-        fields = ('id', 'username', 'email', 'wishlisted_product')
+        fields = ('id', 'username', 'email', 'wishlisted_products', 'products_in_wardrobe', 'products_in_shopping_bag')
