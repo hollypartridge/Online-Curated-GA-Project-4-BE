@@ -19,7 +19,7 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
         password_confirmation = attrs.pop('password_confirmation')
 
         if password != password_confirmation:
-            raise ValidationError({'detail':'Password and Confiratmion do not match'})
+            raise ValidationError({'detail':'Password and Confirmation do not match'})
 
         if settings.ENV != 'DEV':
             try:

@@ -6,7 +6,7 @@ class Product(models.Model):
         ('Accessories', 'Accessories'),
         ('Clothing', 'Clothing'),
         ('Shoes', 'Shoes'),
-        ('Skincare', 'Skincare'),
+        ('Beauty + Lifestyle', 'Beauty + Lifestyle'),
     ]
     TYPE_CHOICES = [
         ('Accessories', (
@@ -40,13 +40,10 @@ class Product(models.Model):
             ('Trainers', 'Trainers'),
         )
         ),
-        ('Skincare', (
-            ('Cleansers', 'Cleansers'),
-            ('Eyes + Lips', 'Eyes + Lips'),
-            ('Moisturisers', 'Moisturisers'),
-            ('Serums', 'Serums'),
-            ('Suncream', 'Suncream'),
-            ('Tools', 'Tools'),
+        ('Beauty + Lifestyle', (
+            ('Skincare', 'Skincare'),
+            ('Makeup', 'Makeup'),
+            ('Home', 'Home'),
         )
         ),
     ]
@@ -69,6 +66,7 @@ class Product(models.Model):
         ('Sand', 'Sand'),
         ('White', 'White'),
         ('Yellow', 'Yellow'),
+        ('N/A', 'N/A'),
     ]
     name = models.CharField(max_length=100)
     designer = models.CharField(max_length=60)

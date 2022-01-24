@@ -4,6 +4,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('products/', include('products.urls')),
-    path('', include('jwt_auth.urls')),
+    path('api/products/', include('products.urls')),
+    path('api/', include('jwt_auth.urls')),
 ]
