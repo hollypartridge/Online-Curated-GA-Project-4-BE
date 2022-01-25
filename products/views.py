@@ -32,7 +32,7 @@ class WishlistListView(CreateAPIView):
 class WishlistDetailView(DestroyAPIView):
     queryset = Wishlist.objects.all()
     serializer_class = WishlistSerializer
-    permission_classes = (isOwnerOrReadyOnly, )
+    permission_classes = (IsAuthenticated, )
 
 class WardrobeListView(CreateAPIView):
     queryset = Wardrobe.objects.all()
@@ -42,7 +42,7 @@ class WardrobeListView(CreateAPIView):
 class WardrobeDetailView(DestroyAPIView):
     queryset = Wardrobe.objects.all()
     serializer_class = WardrobeSerializer
-    permission_classes = (isOwnerOrReadyOnly, )
+    permission_classes = (IsAuthenticated, )
 
 class ShoppingBagListView(CreateAPIView):
     queryset = ShoppingBag.objects.all()
@@ -52,4 +52,4 @@ class ShoppingBagListView(CreateAPIView):
 class ShoppingBagDetailView(DestroyAPIView):
     queryset = ShoppingBag.objects.all()
     serializer_class = ShoppingBagSerializer
-    permission_classes = (isOwnerOrReadyOnly, )
+    permission_classes = (IsAuthenticated, )
