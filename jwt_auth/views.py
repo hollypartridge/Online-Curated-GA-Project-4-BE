@@ -19,11 +19,11 @@ class UserLoginView(APIView):
     ''' View for Users Login /login POST'''
 
     def post(self, request):
-        username = request.data.get('username')
+        email = request.data.get('email')
         password = request.data.get('password')
 
         try:
-            user_to_login = User.objects.get(username=username)
+            user_to_login = User.objects.get(email=email)
         except User.DoesNotExist:
             raise PermissionDenied({'detail':'Unauthorized'})
 
@@ -40,7 +40,8 @@ class UserLoginView(APIView):
 
         return Response({
             'token': token,
-            'message': f'Welcome back {user_to_login.username}'
+            'message': f'Welcome back {user_to_login.username}',
+            'id': user_to_login.id
         })
 
 class UserProfileView(RetrieveAPIView):
