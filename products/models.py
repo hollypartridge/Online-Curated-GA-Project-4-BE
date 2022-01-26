@@ -76,6 +76,7 @@ class Product(models.Model):
     price = models.PositiveIntegerField()
     category = models.CharField(max_length=50, choices=CATEGORY_CHOICES)
     type = models.CharField(max_length=50, choices=TYPE_CHOICES)
+    featured_product = models.BooleanField(default=False)
 
     def __str__(self):
         return f'{self.name} - {self.designer}'
